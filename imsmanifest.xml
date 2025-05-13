@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="pALadRMVOnUgV" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<metadata>
+<schema>ADL SCORM</schema>
+<schemaversion>CAM 1.3</schemaversion>
+<lom:lom>
+<lom:general>
+<lom:title>
+<lom:string>KHÁM PHÁ CÁT BÀ (GDDP)</lom:string>
+</lom:title>
+</lom:general>
+<lom:educational>
+<lom:typicalLearningTime>
+<lom:duration>PT1H0M0S</lom:duration>
+</lom:typicalLearningTime>
+</lom:educational>
+<lom:metaMetadata>
+<lom:metadataSchema>LOMv1.0</lom:metadataSchema>
+<lom:metadataSchema>SCORM_CAM_v1.3</lom:metadataSchema>
+</lom:metaMetadata>
+</lom:lom>
+</metadata>
+<organizations default="pALadRMVOnUgV_organization">
+<organization identifier="pALadRMVOnUgV_organization">
+<title>KHÁM PHÁ CÁT BÀ (GDDP)</title>
+<item identifier="FF44C463-9BC9-472D-A319-F65254757AAD" identifierref="resource">
+<title>KHÁM PHÁ CÁT BÀ (GDDP)</title>
+<imsss:sequencing>
+<imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
+</imsss:sequencing>
+</item>
+<imsss:sequencing>
+<imsss:controlMode flow="true"/>
+</imsss:sequencing>
+</organization>
+</organizations>
+<resources>
+<resource identifier="resource" type="webcontent" adlcp:scormType="sco" href="res/index.html">
+<file href="res/index.html"/>
+<file href="res/lms.js"/>
+<file href="res/data/thmb1.jpg"/>
+<file href="res/data/sound1.mp3"/>
+<file href="res/data/slide1.js"/>
+<file href="res/data/slide1.css"/>
+<file href="res/data/thmb2.png"/>
+<file href="res/data/quiz1.js"/>
+<file href="res/data/quiz1/audios/snd-08040a44f89426c94e87077c4e5d5074c0684166.mp3"/>
+<file href="res/data/quiz1/audios/snd-313f4c3b62467ad07b27ea18faa1003f5dff717e.mp3"/>
+<file href="res/data/quiz1/audios/snd-38e5a4c42b5251eca4a43542ddc1d7486f699ec4.mp3"/>
+<file href="res/data/quiz1/audios/snd-396c9e5ceeeccb69c154db2eefa6e027b5107369.mp3"/>
+<file href="res/data/quiz1/audios/snd-3b04f15886145db3db1c4abdf4aa77d2d7e7696c.mp3"/>
+<file href="res/data/quiz1/audios/snd-40ebb3d2169071d45acb6facba02007eecdfcb6a.mp3"/>
+<file href="res/data/quiz1/audios/snd-7bfc2f3c38a15205f64ac407e4fc46f77f34dc59.mp3"/>
+<file href="res/data/quiz1/audios/snd-92bdb69fec0be2f2f4a8d909408e0cd829f1b50f.mp3"/>
+<file href="res/data/quiz1/audios/snd-9cb0c0c9259e36dd7f8e517edfe9ba4fcc939ec3.mp3"/>
+<file href="res/data/quiz1/audios/snd-b45aaa1dbd483acb37d2fa59ae078e79865424d4.mp3"/>
+<file href="res/data/quiz1/audios/snd-e1d25471f6d427269930d127a6e8fd2beaa6b22a.mp3"/>
+<file href="res/data/quiz1/fonts/fnt0.woff"/>
+<file href="res/data/quiz1/fonts/fnt1.woff"/>
+<file href="res/data/quiz1/fonts/fnt2.woff"/>
+<file href="res/data/quiz1/fonts/fnt3.woff"/>
+<file href="res/data/quiz1/fonts/fnt4.woff"/>
+<file href="res/data/quiz1/fonts/fnt5.woff"/>
+<file href="res/data/quiz1/images/img-1d409a66f5744df15de85fb5d2d80e4d94508754.jpg"/>
+<file href="res/data/quiz1/images/img-28f3d7cf0e16facad9454daa2825051c2cd2a241.jpg"/>
+<file href="res/data/quiz1/images/img-42337be042d54f614132f30a4a53e1037141d2b9.jpg"/>
+<file href="res/data/quiz1/images/img-7d2232cfb872fc117fc1fcc1dee95d1ea576ef79.jpg"/>
+<file href="res/data/quiz1/images/img-82b886a3f16dd4066fdfe3294b7bee3a8f5979a5.jpg"/>
+<file href="res/data/quiz1/images/img-9a6a83219f3fc6fe4d161cfded5f2773f240af11.jpg"/>
+<file href="res/data/quiz1/images/img-b442ab2d25db58faa254a3e9bbfad5a29db96544.jpg"/>
+<file href="res/data/quiz1/images/img-e423f10e03a7c7e61685afc0b97aee4fee54a56d.jpg"/>
+<file href="res/data/quiz1/images/img-f1bda66a1162fe9036a22f5c29b64598469d8d72.jpg"/>
+<file href="res/data/quiz1/images/img-fe862f805ea7b77b3493cd9c599150c5f7588d89.jpg"/>
+<file href="res/data/quiz1/images/quiz_bg_0.png"/>
+<file href="res/data/thmb3.jpg"/>
+<file href="res/data/slide3.js"/>
+<file href="res/data/slide3.css"/>
+<file href="res/data/quizplayer.js"/>
+<file href="res/index.html"/>
+<file href="res/data/player.js"/>
+<file href="res/data/eraser.cur"/>
+<file href="res/data/highlighter.cur"/>
+<file href="res/data/marker.cur"/>
+<file href="res/data/lock.cur"/>
+<file href="res/data/browsersupport.js"/>
+<file href="res/data/apple-touch-icon.png"/>
+<file href="res/data/favicon.ico"/>
+<file href="res/data/fnt0.woff"/>
+<file href="res/data/fnt1.woff"/>
+<file href="res/data/fnt2.woff"/>
+<file href="res/data/fnt3.woff"/>
+<file href="res/data/fnt4.woff"/>
+<file href="res/data/fnt5.woff"/>
+<file href="res/data/fnt6.woff"/>
+<file href="res/data/fnt7.woff"/>
+<file href="res/data/html5-unsupported.html"/>
+<file href="res/data/html5.png"/>
+<file href="res/data/img0.jpg"/>
+<file href="res/data/img1.png"/>
+<file href="res/data/img2.png"/>
+<file href="res/data/img3.png"/>
+<file href="res/data/img4.png"/>
+<file href="res/data/img5.png"/>
+<file href="res/data/img6.png"/>
+<file href="res/data/img7.jpg"/>
+<file href="res/data/img8.png"/>
+</resource>
+</resources>
+</manifest>
