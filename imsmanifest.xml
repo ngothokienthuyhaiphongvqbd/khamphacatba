@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="oiH7p4S6S1MTR" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
+<manifest identifier="eUbipwIktMVVJ" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd">
 <metadata>
 <schema>ADL SCORM</schema>
 <schemaversion>CAM 1.3</schemaversion>
 <lom:lom>
 <lom:general>
 <lom:title>
-<lom:string>KHÁM PHÁ CÁT BÀ (GDDP)-bản sửa</lom:string>
+<lom:string>KHÁM PHÁ CÁT BÀ (GDDP)-bản sửa 2</lom:string>
 </lom:title>
 </lom:general>
 <lom:educational>
@@ -20,11 +20,11 @@
 </lom:metaMetadata>
 </lom:lom>
 </metadata>
-<organizations default="oiH7p4S6S1MTR_organization">
-<organization identifier="oiH7p4S6S1MTR_organization">
-<title>KHÁM PHÁ CÁT BÀ (GDDP)-bản sửa</title>
+<organizations default="eUbipwIktMVVJ_organization">
+<organization identifier="eUbipwIktMVVJ_organization">
+<title>KHÁM PHÁ CÁT BÀ (GDDP)-bản sửa 2</title>
 <item identifier="FF44C463-9BC9-472D-A319-F65254757AAD" identifierref="resource">
-<title>KHÁM PHÁ CÁT BÀ (GDDP)</title>
+<title>KHÁM PHÁ CÁT BÀ (GDDP)-bản sửa</title>
 <imsss:sequencing>
 <imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/>
 </imsss:sequencing>
